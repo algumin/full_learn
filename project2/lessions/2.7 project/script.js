@@ -19,5 +19,5 @@ let appData = {
 appData.expenses.a1 = a2;
 appData.expenses.a3 = a4;
 
-alert("бюджет на 1 день" + money/30);
+alert(appData.budget / 30);
 
