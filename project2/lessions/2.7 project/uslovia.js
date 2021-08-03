@@ -16,7 +16,7 @@ if (num < 49) {
 // let num = 50;
 (num == 50) ? console.log('verno') : console.log('neverno');
 
-let num = 81;
+ let num = 101;
 switch (num) {
     case num < 49:
         console.log('neverno!');
